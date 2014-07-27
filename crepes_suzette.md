@@ -1,13 +1,15 @@
-# Ingrédients
+# Crèpes Suzette
 
-  - 2 Oeufs
-  - Pincée de sel
-  - Lait
-  - 150g farine
-  - Beurre
+## Ingrédients
+
+  * 2 Oeufs
+  * Pincée de sel
+  * Lait
+  * 150g farine
+  * Beurre
   
 
-# Préparation
+## Préparation
 
   Préparer la pâte a crèpes en mélangeant la farine, les oeufs, une pincée de sel, et incorporer progressivement le lait avec un fouet.
 

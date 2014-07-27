@@ -1,4 +1,6 @@
-# Ingrédients
+# Fondue de Poireaux
+
+## Ingrédients
 
   - 2 poireaux (avec un maximum de blanc)
   - Oignon
@@ -7,7 +9,7 @@
   - 2dl vin blanc
 
 
-# Préparation
+## Préparation
 
   Couper le bout blanc, raccourcir les feuilles vertes
 

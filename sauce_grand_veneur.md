@@ -1,6 +1,6 @@
-* Sauce Grand Veneur
+# Sauce Grand Veneur
 
-= Ingrédients
+## Ingrédients
 
   - Confiture d'airelles
   - Oignons
@@ -11,7 +11,7 @@
   - Crème entière
   - Poivre
 
-= Préparation
+## Préparation
 
   Faire revenir les oignons coupés finement dans un peu d'huile d'olive
   Ajouter la sauce roti liée diluée a froid dans de l'eau

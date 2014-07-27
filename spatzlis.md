@@ -1,4 +1,6 @@
-# Ingrédients 
+# Spätzlis
+
+## Ingrédients 
 
   - 3 bons oeufs frais (catégorie 0 ou 1)
   - 300g de farine
@@ -7,7 +9,7 @@
   - sel, poivre, noix de muscade
   - huile (arachide/tournesol) et beurre
 
-# Préparation
+## Préparation
 
   Mettre de l'eau a bouillir dans une casserole.
 

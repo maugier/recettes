@@ -1,16 +1,18 @@
-= Ingrédients
+# Crème aux Champignons
 
-  - 1/2 bouillon de légumes
-  - Champignons de Paris entiers
-  - Oignons
-  - Huile d'olive
-  - Vin blanc
-  - Jus de citron
-  - Crème entière
-  - Crème liquide
-  - Laurier
+## Ingrédients
 
-= Préparation
+  * 1/2 bouillon de légumes
+  * Champignons de Paris entiers
+  * Oignons
+  * Huile d'olive
+  * Vin blanc
+  * Jus de citron
+  * Crème entière
+  * Crème liquide
+  * Laurier
+
+## Préparation
 
   Laver les champignons et les rincer. Ne pas laisser trop longtemps sous l'eau.
   Egoutter le tout et mettre en réserve.

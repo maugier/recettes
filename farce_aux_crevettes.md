@@ -1,4 +1,6 @@
-# Ingrédients
+# Farce aux Crevettes
+
+## Ingrédients
 
   - Crevettes grises entières
   - Crème liquide (ou entière)
@@ -8,7 +10,7 @@
   - Coupures d'oignons
   - Safran
 
-# Préparation
+## Préparation
 
   Decortiquer les crevettes. Mettre les carcasses dans une casserole et réserver
 la chair au frigo.

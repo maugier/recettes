@@ -1,4 +1,6 @@
-# Préparation
+# Entrecôte Parisienne
+
+## Préparation
 
 Chauffer une poele grill vide a feu fort (pas d'huile dans la poele).
 

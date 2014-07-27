@@ -1,4 +1,6 @@
-= Ingrédients
+# Sauce Poivre Vert
+
+## Ingrédients
 
   - Poivre vert frais
   - Oignons
@@ -6,7 +8,7 @@
   - Vin blanc
   - Bouillon de légumes
 
-= Préparation
+## Préparation
 
   Faire revenir les oigons coupés finement dans de l'huile d'olive
   Ajouter 1dl de vin blanc

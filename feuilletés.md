@@ -1,11 +1,13 @@
-# Ingrédients
+# Feuilletés
+
+## Ingrédients
 
   - Pâte feuilletée
   - Emporte-pièces
   - 1 jaune d'oeuf
 
 
-# Préparation
+## Préparation
 
   Préchauffer le four a 180°
 
