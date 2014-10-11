@@ -7,6 +7,7 @@
   - Beurre
   - Huile d'olive
   - 2dl vin blanc
+  - 2dl crème
 
 
 ## Préparation
